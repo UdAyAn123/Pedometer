@@ -1,2 +1,2 @@
 # Pedometer
-<h2>Youtube Explanation:
+<h2>RoboISM Project
